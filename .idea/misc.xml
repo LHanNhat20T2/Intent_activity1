@@ -3,8 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/IntentActivity/app/src/main/res/layout/activity_child.xml" value="0.264" />
-        <entry key="..\:/IntentActivity/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/layerEmailLG.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/layersingupboder.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayer.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayeraddress.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayeremail.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayergithub.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayerphone.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/anhthe_boder.xml" value="0.256" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/anhthe_circle.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/bodertxtsecond.xml" value="0.2495" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/bordertxtsecond.xml" value="0.1305" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/layeremaillg.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/layerlg.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/layerlogin.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable/secondlayer.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_first.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_intent.xml" value="0.25" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Profile/app/src/main/res/layout/activity_singup.xml" value="0.264" />
       </map>
     </option>
   </component>

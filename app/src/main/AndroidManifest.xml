@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.intentactivity">
+    package="com.example.profile">
 
     <application
         android:allowBackup="true"
@@ -11,13 +11,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.IntentActivity"
+        android:theme="@style/Theme.Profile"
         tools:targetApi="31">
         <activity
-            android:name=".ChildActivity"
+            android:name=".Activity_second"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activity_first"
+            android:exported="true" />
+        <activity
+            android:name=".Signup"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Profile"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
